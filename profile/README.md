@@ -27,6 +27,6 @@ Our portfolio will grow as projects are developed, tested, and documented.
 
 ## Founder & Leadership
 
-**Founded and managed by [AAM]**
+**Founded and managed by [AAM] (https://github.com/aam138653-source)**
 
 AUTENQRO is currently an independent engineering initiative led by its founder, with a focus on developing practical engineering projects.
