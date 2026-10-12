@@ -23,3 +23,10 @@ Our portfolio will grow as projects are developed, tested, and documented.
 ---
 
 *Building practical solutions, one project at a time.*
+
+
+## Founder & Leadership
+
+**Founded and managed by [AAM]**
+
+AUTENQRO is currently an independent engineering initiative led by its founder, with a focus on developing practical engineering projects.
